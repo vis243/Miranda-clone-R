@@ -7,6 +7,10 @@
     font-family: sludge;
     src: url(./sludge.ttf);
 }
+@font-face {
+    font-family: canopee;
+    src: url(./neon.ttf);
+}
 *{
     margin: 0;padding: 0;
     box-sizing: border-box;
